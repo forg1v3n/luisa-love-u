@@ -29,15 +29,26 @@ body {
     text-align: center;
 }
 
+.banner {
+    position: absolute;
+    width: 220px;
+    height: 200px;
+    float: none;
+    margin-bottom: 30px;
+    position: absolute;
+    margin-left: 270px;
+    bottom: 425px;
+}
+
 .logo {
     position: absolute;
-    width:450px;
-    height: 400px;
+    width:650px;
+    height: 600px;
     float: right;
     margin-bottom: 10px;
     position: absolute;
-    right: 1000px;
-    bottom:100px;
+    right: 870px;
+    bottom: 20px;
 }
 
 .notification h3 {
